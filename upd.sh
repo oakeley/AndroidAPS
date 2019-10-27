@@ -1,0 +1,22 @@
+git add app/src/main/res/values-af-rZA/strings.xml
+git add app/src/main/res/values-bg-rBG/strings.xml
+git add app/src/main/res/values-cs-rCZ/strings.xml
+git add app/src/main/res/values-de-rDE/strings.xml
+git add app/src/main/res/values-el-rGR/strings.xml
+git add app/src/main/res/values-es-rES/strings.xml
+git add app/src/main/res/values-fr-rFR/strings.xml
+git add app/src/main/res/values-it/strings.xml
+git add app/src/main/res/values-iw-rIL/strings.xml
+git add app/src/main/res/values-ko-rKR/strings.xml
+git add app/src/main/res/values-lt-rLT/strings.xml
+git add app/src/main/res/values-nl-rNL/strings.xml
+git add app/src/main/res/values-pl-rPL/strings.xml
+git add app/src/main/res/values-pt-rPT/strings.xml
+git add app/src/main/res/values-ro-rRO/strings.xml
+git add app/src/main/res/values-ru-rRU/strings.xml
+git add app/src/main/res/values-sk-rSK/strings.xml
+git add app/src/main/res/values-sv-rSE/strings.xml
+git add app/src/main/res/values-tr-rTR/strings.xml
+git add app/src/main/res/values-zh-rCN/strings.xml
+git add app/src/main/res/values/strings.xml
+#git add 
