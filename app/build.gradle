@@ -104,7 +104,7 @@ android {
         targetSdkVersion 25
         multiDexEnabled true
         versionCode 1500
-        version "2.3.omnipy1.4.3"
+        version "2.5.omnipy1.4.3"
         buildConfigField "String", "VERSION", '"' + version + '"'
         buildConfigField "String", "BUILDVERSION", '"' + generateGitBuild() + '-' + generateDate() + '"'
         buildConfigField "String", "REMOTE", '"' + generateGitRemote() + '"'
@@ -137,7 +137,7 @@ android {
         }
         debug {
             testCoverageEnabled(project.hasProperty('coverage'))
-        }
+        }https://github.com/winemug/AndroidAPS/tree/omnipod_dev/app/src/test
     }
     productFlavors {
         flavorDimensions "standard"
